@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/order-management-system/static/css/main.5914bfcc.css",
+    "main.js": "/order-management-system/static/js/main.e34a919d.js",
+    "index.html": "/order-management-system/index.html",
+    "main.5914bfcc.css.map": "/order-management-system/static/css/main.5914bfcc.css.map",
+    "main.e34a919d.js.map": "/order-management-system/static/js/main.e34a919d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5914bfcc.css",
+    "static/js/main.e34a919d.js"
+  ]
+}
